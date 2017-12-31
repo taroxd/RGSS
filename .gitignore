@@ -1,0 +1,9 @@
+*.rvdata2
+!/Data/Scripts.rvdata2
+/Graphics
+/Audio
+/Movies
+/System
+Game.exe
+Game.ini
+Game.rvproj2

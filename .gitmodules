@@ -1,0 +1,3 @@
+[submodule "rgssdll"]
+	path = rgssdll
+	url = https://github.com/taroxd/rgssdll.git
