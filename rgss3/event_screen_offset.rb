@@ -7,7 +7,7 @@
 #   事件名称中填写 <offset x y>，可将事件在屏幕上的位置偏移 (x, y)
 
 module Taroxd
-  EventScreenOffset = /<offset\s*(\d+)\s+(\d+)/i
+  EventScreenOffset = /<offset\s*(-?\d+)\s+(-?\d+)/i
 end
 
 class RPG::Event
