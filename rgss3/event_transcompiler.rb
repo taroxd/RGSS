@@ -498,7 +498,7 @@ class Taroxd::EventTranscompiler
 
   # 设置禁用存档
   def command_134
-    "$game_system.menu_disabled = #{@params[0] == 0}"
+    "$game_system.save_disabled = #{@params[0] == 0}"
   end
 
   # 设置禁用菜单
